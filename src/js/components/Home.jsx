@@ -57,7 +57,7 @@ const Home = () => {
 			<Navbar />
 			<div className="container ">
 				<Jumbo />
-				<div className="row container g-3">
+				<div className="row container g-lx-2 g-1 g-md-5">
 					{cardProps.map((value) => {
 						return <Card
 							imgSrc={value.imgSrc}

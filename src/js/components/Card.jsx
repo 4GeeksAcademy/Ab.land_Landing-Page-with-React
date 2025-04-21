@@ -3,7 +3,7 @@ import React from 'react'
 const Card = (props) => {
 
     return (
-        <div className='col-10 col-sm-8 col-md-5 col-xl-3'>
+        <div className='col-10 col-sm-8 col-md-5 col-xl-3 offset-xl-0 offset-1'>
             <div className="card" >
                 <img style={{ height: "225px", objectFit: "cover" }}
                     src={props.imgSrc}
