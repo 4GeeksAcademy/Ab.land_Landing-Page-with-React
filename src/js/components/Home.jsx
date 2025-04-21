@@ -42,7 +42,7 @@ const Home = () => {
 			imgSrc: "https://images.unsplash.com/photo-1743247975472-611e63868a1a",
 			imgAlt: "top to bottom view of a stairway",
 			title: "Card 4",
-			content: "hola hello hallo doiLorem ipsum, dolor sit amet consectetur adipisicing elit. Dolor quasi doloremque perferendis, facere dolorum eaque aliquam sapiente. Eius, et. Corporis dolore impedit atque reprehenderit fuga autem unde similique sint non!",
+			content: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolor quasi doloremque perferendis, facere dolorum eaque aliquam sapiente. Eius, et. Corporis dolore impedit atque reprehenderit fuga autem unde similique sint non!",
 			lastUpdate: "Last updated 7h",
 			anchorLink: "https://unsplash.com/photos/escalators-in-a-futuristic-yellow-walled-building-f9VeYakvLiI"
 
